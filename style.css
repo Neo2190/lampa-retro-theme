@@ -1,0 +1,25 @@
+body {
+  background-color: #1a001a;
+  color: #ffccff;
+  font-family: 'Courier New', monospace;
+}
+
+.card {
+  background: linear-gradient(135deg, #330033, #1a001a);
+  border: 2px solid #ff00ff;
+  box-shadow: 0 0 15px #ff00ff;
+}
+
+button {
+  background-color: #290029;
+  color: #ff99ff;
+  border: 1px solid #ff00ff;
+  padding: 10px;
+  border-radius: 5px;
+  text-transform: uppercase;
+}
+
+h1, h2, h3 {
+  color: #ff66cc;
+  text-shadow: 0 0 5px #ff00ff;
+}
