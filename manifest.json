@@ -1,0 +1,8 @@
+{
+  "name": "Retro Glow Theme",
+  "description": "Ретро-тема с неоновыми акцентами и VHS-атмосферой для Lampa ТВ",
+  "version": "1.0.0",
+  "type": "theme",
+  "author": "Jon",
+  "style": "style.css"
+}
